@@ -1,0 +1,56 @@
+/*GLOBAL*/
+body {
+  background: #eee;
+}
+
+h1 {
+  color:#1d1d1d;
+  padding: 20px;
+}
+
+h3 {
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+
+/*HEADING*/
+heading p {
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+/*JUMBOTRON*/
+.jumbotron {
+  margin:0;
+  padding: 10;
+}
+
+/*FORM*/
+.form-group label {
+  font-size: 1.2em;
+  padding:10px 0 5;
+}
+.form-group input {
+  height: 40px;
+}
+
+.form-group select {
+  height: 40px;
+}
+
+/*SUBMIT BUTTON*/
+.btn-submit {
+  text-align: center;
+}
+
+.btn-container .btn{
+  font-size: 1.3em;
+  padding: 5px;
+}
+
+/*FOOTER*/
+footer p {
+  text-align: center;
+  font-size: 1.1em;
+}
